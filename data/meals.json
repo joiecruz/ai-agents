@@ -1,0 +1,46 @@
+{
+  "weekly": {
+    "monday": {
+      "breakfast": "Oatmeal with berries and honey",
+      "lunch": "Grilled chicken salad with avocado",
+      "dinner": "Salmon with roasted vegetables and quinoa",
+      "snacks": ["Greek yogurt", "Mixed nuts"]
+    },
+    "tuesday": {
+      "breakfast": "Scrambled eggs with whole wheat toast",
+      "lunch": "Lentil soup with crusty bread",
+      "dinner": "Stir-fried tofu with bok choy and brown rice",
+      "snacks": ["Apple with almond butter", "Carrot sticks"]
+    },
+    "wednesday": {
+      "breakfast": "Smoothie bowl with granola",
+      "lunch": "Turkey and avocado wrap",
+      "dinner": "Homemade pasta with marinara and a side salad",
+      "snacks": ["Hummus and cucumber", "Dark chocolate"]
+    },
+    "thursday": {
+      "breakfast": "Whole grain pancakes with maple syrup",
+      "lunch": "Leftover pasta",
+      "dinner": "Chicken tacos with guacamole and salsa",
+      "snacks": ["Banana", "Cheese and crackers"]
+    },
+    "friday": {
+      "breakfast": "Yogurt parfait with granola and fruit",
+      "lunch": "Caesar salad with shrimp",
+      "dinner": "Treat yourself — order your favourite food! 🎉",
+      "snacks": ["Smoothie", "Popcorn"]
+    },
+    "saturday": {
+      "breakfast": "Avocado toast with poached eggs",
+      "lunch": "Meal prep: grain bowls with roasted veggies",
+      "dinner": "Grilled steak with sweet potato and green beans",
+      "snacks": ["Fresh fruit", "Trail mix"]
+    },
+    "sunday": {
+      "breakfast": "French toast with fresh berries",
+      "lunch": "Tomato soup with grilled cheese",
+      "dinner": "Roast chicken with mashed potatoes and broccoli",
+      "snacks": ["Orange slices", "Handful of almonds"]
+    }
+  }
+}

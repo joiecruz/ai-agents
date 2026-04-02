@@ -1,0 +1,49 @@
+{
+  "weekly": {
+    "monday": [
+      "Team standup at 9:00 AM",
+      "Review pull requests",
+      "Gym - upper body workout"
+    ],
+    "tuesday": [
+      "1:1 with manager at 10:00 AM",
+      "Work on project proposal",
+      "Call mom"
+    ],
+    "wednesday": [
+      "All-hands meeting at 2:00 PM",
+      "Grocery shopping",
+      "Gym - lower body workout"
+    ],
+    "thursday": [
+      "Client demo at 11:00 AM",
+      "Pay monthly bills",
+      "Read for 30 minutes"
+    ],
+    "friday": [
+      "Weekly review & planning",
+      "Gym - cardio",
+      "Dinner with friends"
+    ],
+    "saturday": [
+      "Deep clean apartment",
+      "Meal prep for the week",
+      "Personal project work"
+    ],
+    "sunday": [
+      "Rest and recharge",
+      "Plan the week ahead",
+      "Yoga or light stretch"
+    ]
+  },
+  "one_off": [
+    {
+      "date": "2026-04-07",
+      "task": "Dentist appointment at 3:00 PM"
+    },
+    {
+      "date": "2026-04-10",
+      "task": "Submit tax documents"
+    }
+  ]
+}
